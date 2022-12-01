@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "20221201-nonce-test",
+    "version": "0.0.1",
+    "description": "20221201-nonce-test description",
+    "type": "bundle"
+}
